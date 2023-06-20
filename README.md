@@ -13,7 +13,7 @@ Method to store the date from your excel file format to SQL Database can be foun
 To operate  on your computer you need to establish your local database connection to your SQL workbench.
 Sync for the required dependencies and you are good to go.
 
-# The file format accepted for this is xlsx so make sure to use that will making post request
-# One has to convert the given csv file to xlsx otherwise the application would not be able to work.
-# PostMan was used for making respective post request and Get request for the Api, the user can also use the same.
+### The file format accepted for this is xlsx so make sure to use that will making post request
+### One has to convert the given csv file to xlsx otherwise the application would not be able to work.
+### PostMan was used for making respective post request and Get request for the Api, the user can also use the same.
 
